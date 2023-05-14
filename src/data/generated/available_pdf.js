@@ -1,0 +1,1 @@
+define({availablePdf: ["MySmartphoenIsSafe","Survey","ReconcilingMobileAppPrivacy","UnderstandingUserRequirements","Measuring user confidence in smartphone security and privacy","StopAnnoyingMe","ExpectationAndPurpose","TASAM_-_Towards_the_Smart_Devices_App-Stores_Applications_Security_Management_Related_Best_Practices","AndroidPermission","PrivacyTippingPoints"]});
